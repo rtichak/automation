@@ -1,0 +1,13 @@
+C:\ProjetoCuponFiscal\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+C:\ProjetoCuponFiscal\CadastroClientes\bin\Debug\CadastroClientes.exe
+C:\ProjetoCuponFiscal\CadastroClientes\bin\Debug\CadastroClientes.pdb
+C:\ProjetoCuponFiscal\CadastroClientes\obj\Debug\CadastroClientes.csproj.AssemblyReference.cache
+C:\ProjetoCuponFiscal\CadastroClientes\obj\Debug\CadastroClientes.Formulario.resources
+C:\ProjetoCuponFiscal\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+C:\ProjetoCuponFiscal\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.cache
+C:\ProjetoCuponFiscal\CadastroClientes\obj\Debug\CadastroClientes.csproj.CoreCompileInputs.cache
+C:\ProjetoCuponFiscal\CadastroClientes\obj\Debug\CadastroClientes.exe
+C:\ProjetoCuponFiscal\CadastroClientes\obj\Debug\CadastroClientes.pdb
+C:\ProjetoCuponFiscal\CadastroClientes\obj\Debug\CadastroClientes.Produtos.resources
+C:\ProjetoCuponFiscal\CadastroClientes\obj\Debug\CadastroClientes.Menu.resources
+C:\ProjetoCuponFiscal\CadastroClientes\obj\Debug\CadastroClientes.frmPedido.resources
